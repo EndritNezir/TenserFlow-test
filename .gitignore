@@ -3,10 +3,9 @@ __pycache__/
 *.pyc
 .DS_Store
 
-data/
 raw_data/
 meta/
-tree/
+data/
 airplane/
 bicycle/
 boat/
@@ -17,5 +16,4 @@ chair/
 dog/
 flower/
 telephone/
-
-model/
+tree/

@@ -1,0 +1,11 @@
+airplane
+bicycle
+boat
+building
+car
+cat
+chair
+dog
+flower
+telephone
+tree
